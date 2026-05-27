@@ -1,0 +1,6 @@
+This project automates the credit card application assessment process using logistic regression, a supervised machine learning algorithm designed for binary classification. By analyzing historical applicant data—including demographic, employment, and financial details—the model predicts the probability of approval or rejection, providing a scalable alternative to manual, error-prone evaluation methods. The project encompasses essential data pre-processing steps, such as handling missing values and feature scaling, followed by model training and performance validation using metrics like accuracy, precision, and recall. Ultimately, 
+the system provides a robust, interpretable baseline 
+for financial institutions to improve decision-making speed and mitigate credit risk.
+
+This is a project that based on multiple features like saving , spending , age , gender etc predicts if they have a chance at getting approved for a credit card . this is better because traditional approval is based on cibil scoee that  is baed on how willing are you to payb back debt to the bank . 
+eventhough it is the mahjor method we can still predict if the peron is eligible for the card based on the aformentioned features 
